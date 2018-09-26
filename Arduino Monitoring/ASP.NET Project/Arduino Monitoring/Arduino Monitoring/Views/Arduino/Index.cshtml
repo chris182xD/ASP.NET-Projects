@@ -1,0 +1,36 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Arduino Monitoring</h2>
+
+<div class="row">
+    
+    <div class="col s4">
+        <div id="chart-container">FusionCharts XT will load here!</div>
+    </div>
+    <div class="col s4">
+        <h5>Switch Led</h5>
+        <div class="switch">
+            <label>
+                Off
+                <input type="checkbox" id="SwitchLed" onclick="SwitchLed()">
+                <span class="lever"></span>
+                On
+            </label>
+        </div>
+    </div>
+    <div class="col s4">
+        <h5>Switch Motor</h5>
+        <div class="switch">
+            <label>
+                Off
+                <input type="checkbox" id="SwitchMotor" onclick="SwitchMotor()">
+                <span class="lever"></span>
+                On
+            </label>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,44 @@
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\Arduino Monitoring.dll.config
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\Arduino Monitoring.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\Arduino Monitoring.pdb
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\Antlr3.Runtime.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\Microsoft.ApplicationInsights.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\Newtonsoft.Json.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\System.Web.Helpers.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\System.Web.Mvc.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\System.Web.Optimization.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\System.Web.Razor.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\System.Web.WebPages.Deployment.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\System.Web.WebPages.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\System.Web.WebPages.Razor.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\WebGrease.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\System.Web.Helpers.xml
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\System.Web.Mvc.xml
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\System.Web.Optimization.xml
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\System.Web.Razor.xml
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\System.Web.WebPages.xml
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\System.Web.WebPages.Deployment.xml
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\System.Web.WebPages.Razor.xml
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\Newtonsoft.Json.xml
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\Antlr3.Runtime.pdb
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\es\System.Web.Helpers.resources.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\es\System.Web.Mvc.resources.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\es\System.Web.Optimization.resources.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\es\System.Web.Razor.resources.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\es\System.Web.WebPages.resources.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\obj\Debug\Arduino Monitoring.csprojAssemblyReference.cache
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\obj\Debug\Arduino Monitoring.csproj.CoreCompileInputs.cache
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\obj\Debug\Arduino Monitoring.csproj.CopyComplete
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\obj\Debug\Arduino Monitoring.dll
+C:\Users\crios\OneDrive\Documentos\GitHub\ASP.NET-Projects\Arduino Monitoring\ASP.NET Project\Arduino Monitoring\Arduino Monitoring\obj\Debug\Arduino Monitoring.pdb
